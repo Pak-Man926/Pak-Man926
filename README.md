@@ -1,16 +1,14 @@
 <br clear="both">
 
-<p align="center"> I'm David Kamau</p>
-
 ###
 
 <br clear="both">
 
-<p align="left">A passionate Backend and Mobile Application Developer from Kenya 🇰🇪</p>
+<p align="left">Full Stack Java Developer</p>
 
 ###
 
-<p align="left">🔭 I’m currently working on the Backend of an E-commerce Website.<br><br>👯 I’m looking to collaborate on any project that involves Java.<br><br>💬 Ask me about Java, C, C++,  Mobile Development, Spring.<br><br>⚡ Fun fact I enjoy every step I take. <br><br> 💬Everyday at a time. <br></p>
+<p align="left">👯 Hit Me Up when you want to tickle my brain with code<br><br>💬  Python, C, C++,  Java for Mobile Development and Spring are my tech stacks.<br><br> <br><br> 💬Everyday at a time. <br></p>
 
 ###
 
@@ -128,9 +126,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Pak-Man926&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pak-Man926&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Pak-Man926/Pak-Man926/output/snake.svg" alt="Snake animation" />
-
-###
