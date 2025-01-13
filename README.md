@@ -4,11 +4,11 @@
 
 <br clear="both">
 
-<p align="left">Full Stack Java Developer</p>
+<p align="Center">Full Stack Java Developer</p> <br>
 
 ###
 
-<p align="left">👯 Hit Me Up when you want to tickle my brain with code<br><br>💬  Python, C, C++,  Java for Mobile Development and Spring are my tech stacks.<br><br> <br><br> 💬Everyday at a time. <br></p>
+<p align="left">👯 Hit Me Up when you want to tickle my brain with code<br><br>💬  Python, C, C++,  Java for Mobile Development and Spring are my tech stacks.<br><br> 💬Everyday at a time. <br></p>
 
 ###
 
